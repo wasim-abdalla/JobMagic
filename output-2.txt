@@ -1,0 +1,18 @@
+Array
+(
+    [0] => Array
+        (
+            [job] => SimpleXMLElement Object
+                (
+                    [0] => eCommerce Merchandise Specialist
+                )
+
+            [imageUrl] => http://www.talenthq.com/wp-content/uploads/2015/05/Indeed-Logo.jpg
+            [url] => SimpleXMLElement Object
+                (
+                    [0] => http://www.indeed.com/viewjob?jk=74471d1bf4fe8194&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                )
+
+        )
+
+)

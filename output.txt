@@ -1,0 +1,303 @@
+SimpleXMLElement Object
+(
+    [@attributes] => Array
+        (
+            [version] => 2
+        )
+
+    [query] => Search
+    [location] => austin, tx
+    [clickedCategories] => SimpleXMLElement Object
+        (
+        )
+
+    [paginationPayload] => SimpleXMLElement Object
+        (
+        )
+
+    [radius] => 25
+    [dupefilter] => true
+    [highlight] => false
+    [start] => 1
+    [end] => 10
+    [pageNumber] => 0
+    [totalresults] => 1174
+    [results] => SimpleXMLElement Object
+        (
+            [result] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => eCommerce Merchandise Specialist
+                            [company] => Kendra Scott Design
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Kendra Scott Design
+                            [date] => Sat, 05 Nov 2016 02:55:14 GMT
+                            [snippet] => Test &amp; optimize top site search terms. Set-up and manage creative assets across the site, including Homepage, Category Pages and Banners for browse and search....
+                            [url] => http://www.indeed.com/viewjob?jk=74471d1bf4fe8194&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.318682
+                            [longitude] => -97.74176
+                            [jobkey] => 74471d1bf4fe8194
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => false
+                            [formattedLocationFull] => Austin, TX 78756
+                            [formattedRelativeTime] => 8 days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [1] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Park Ranger (Park Police)
+                            [company] => Travis County
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Travis County
+                            [date] => Wed, 12 Oct 2016 00:01:56 GMT
+                            [snippet] => Initiates and/or participates in search and rescue operations. Recognizes, responds to, and coordinates response to search and rescue situations....
+                            [url] => http://www.indeed.com/viewjob?jk=8c55549c0f2e3110&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 8c55549c0f2e3110
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => false
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 30+ days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [2] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => IT & E-Commerce Specialist
+                            [company] => Pure Spoon
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Indeed
+                            [date] => Fri, 04 Nov 2016 15:37:49 GMT
+                            [snippet] => Experience in Search Engine Optimization (SEO). Looking for a hard working individual to help us with a variety of technical work....
+                            [url] => http://www.indeed.com/viewjob?jk=dd08497f68837e23&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.303438
+                            [longitude] => -97.85176
+                            [jobkey] => dd08497f68837e23
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => true
+                            [formattedLocationFull] => Austin, TX 78746
+                            [formattedRelativeTime] => 9 days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [3] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Photo Booth Attendant
+                            [company] => ShutterBooth Central Texas
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Indeed
+                            [date] => Wed, 02 Nov 2016 22:27:04 GMT
+                            [snippet] => Currently, we're in search of dynamic, fun and fabulous individuals to join our team of hosts.Our hosts are at the core of our business....
+                            [url] => http://www.indeed.com/viewjob?jk=ec334adbff096ebc&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => ec334adbff096ebc
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => true
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 10 days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [4] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Director of Engineering
+                            [company] => ATP
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Indeed
+                            [date] => Wed, 09 Nov 2016 14:35:59 GMT
+                            [snippet] => Experience with single-sign on (SSO) and federated identity provider models and tools, and enterprise search....
+                            [url] => http://www.indeed.com/viewjob?jk=24f9b98c5dccfcd4&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 24f9b98c5dccfcd4
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => true
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 4 days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [5] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Paid Media Specialist
+                            [company] => Aceable
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Aceable
+                            [date] => Fri, 23 Sep 2016 04:25:23 GMT
+                            [snippet] => 2+ years of relevant experience managing paid search, paid social, or display campaigns. Help manage the day‐to‐day execution and optimization of paid search,...
+                            [url] => http://www.indeed.com/viewjob?jk=1251e1c718c613cd&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 1251e1c718c613cd
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => false
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 30+ days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [6] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Civil Rights Intake Specialist I-V
+                            [company] => Texas Workforce Commission
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Texas Workforce Commission
+                            [date] => Wed, 09 Nov 2016 04:07:51 GMT
+                            [snippet] => Job Description Performs entry-level to advanced civil rights intake work alleging violations of statutes and/or regulations enforced by the Civil Rights
+                            [url] => http://www.indeed.com/viewjob?jk=6bea70e6bb137567&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 6bea70e6bb137567
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => false
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 4 days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [7] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Inside Sales Representative
+                            [company] => Arnold Oil Company of Austin, L.P
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => Arnold Oil Company of Austin, L.P
+                            [date] => Thu, 20 Oct 2016 07:00:36 GMT
+                            [snippet] => We are in search of an inside sales representative for our Austin A-Line Auto Parts. Do you enjoy the thrill of the sale and have a passion for reaching out to...
+                            [url] => http://www.indeed.com/viewjob?jk=8c2ed63ac5e8516b&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 8c2ed63ac5e8516b
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => true
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 24 days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [8] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Digital Specialist - Media Search Specialist
+                            [company] => IBM
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => IBM
+                            [date] => Sat, 17 Sep 2016 03:07:07 GMT
+                            [snippet] => The IBM Cloud Digital Marketing Group is looking for experience Paid Search Specailists for their Austin, TX, Dallas, TX and New York City, NY offices....
+                            [url] => http://www.indeed.com/viewjob?jk=25a9080211f3602a&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 25a9080211f3602a
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => false
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 30+ days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                    [9] => SimpleXMLElement Object
+                        (
+                            [jobtitle] => Assistant Professor in STEM Education
+                            [company] => University of Texas at Austin
+                            [city] => Austin
+                            [state] => TX
+                            [country] => US
+                            [formattedLocation] => Austin, TX
+                            [source] => University of Texas at Austin
+                            [date] => Wed, 05 Oct 2016 00:15:04 GMT
+                            [snippet] => Questions about the positions can be directed to the Search Committee Chair, Dr. The....
+                            [url] => http://www.indeed.com/viewjob?jk=1a1656576b543a5a&qd=i7QqAH0ns4cp_Ncwx1ioIC0PhQuRsLZqwQ8pJ6USnkFCclR6ryieTjX2r73ImtIs8ggV3Y_mSc3ZN07Ayj0bWniBPnwhOB2mcWqbU-jWzb-DBfhE8IgzO_q_LQgY-_NZ&indpubnum=5940159532938846&atk=1b1f65ft3agvodvc
+                            [onmousedown] => indeed_clk(this,'9712');
+                            [latitude] => 30.266483
+                            [longitude] => -97.74176
+                            [jobkey] => 1a1656576b543a5a
+                            [sponsored] => false
+                            [expired] => false
+                            [indeedApply] => false
+                            [formattedLocationFull] => Austin, TX
+                            [formattedRelativeTime] => 30+ days ago
+                            [stations] => SimpleXMLElement Object
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
